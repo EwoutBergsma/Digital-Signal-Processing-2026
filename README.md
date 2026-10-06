@@ -9,8 +9,9 @@ Lecturer Ewout Bergsma.
 - [Lecture 1](lectures/01/README.md) covers signals and systems.
 - [Lecture 2](lectures/02/README.md) covers convolution.
 - [Lecture 3](lectures/03/README.md) covers the discrete Fourier transform.
+- [Lecture 4](lectures/04/README.md) covers negative frequencies, spectral leakage and aliasing.
 
-Each lecture folder contains HTML slides, a static PDF, exercises and solutions. Solutions are published separately from the exercise notebooks so you can complete the tasks first.
+Each lecture folder contains HTML slides, a static PDF and exercises. Solutions are available for lectures 1–3 and are published separately from the exercise notebooks so you can complete the tasks first.
 
 ## Slides
 
