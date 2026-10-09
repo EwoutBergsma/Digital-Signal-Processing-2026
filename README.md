@@ -12,7 +12,7 @@ Lecturer Ewout Bergsma.
 - [Lecture 4](lectures/04/README.md) covers negative frequencies, spectral leakage and aliasing.
 - [Lecture 5](lectures/05/README.md) covers spectrograms, the short-time Fourier transform and windowing.
 
-Each lecture folder contains HTML slides and a static PDF. Exercises are available for lectures 1–5. Solutions are available for lectures 1–4 and are published separately from the exercise notebooks so you can complete the tasks first.
+Each lecture folder contains HTML slides and a static PDF. Exercises are available for lectures 1–5. Solutions are available for lectures 1–5 and are published separately from the exercise notebooks so you can complete the tasks first.
 
 ## Slides
 
